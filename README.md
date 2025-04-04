@@ -34,14 +34,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS custom properties
 - Flexbox
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### What I learned
 I learned how the div behave when using CSS properties: display, flex-direction, justify-content, align-items, etc.. I also learned to better understand the margin and padding of an element. It was a very good experience for me. Thanks you Front End Mentor 😊.
 
 ### Continued development
 
-I hope that in my future projet i will learn more.
+I think i would learn more with my future projets.
 
 ### Useful resources
 
@@ -49,8 +47,7 @@ I hope that in my future projet i will learn more.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@byt3Buster](https://www.frontendmentor.io/profile/byt3Buster)
 
 ## Acknowledgments
-[obkpakpa](https://www.frontendmentor.io/profile/obkpakpa) help me wich his solution. Thanks 
+[obkpakpa](https://www.frontendmentor.io/profile/obkpakpa) help me wich his solution. Thanks to him.
